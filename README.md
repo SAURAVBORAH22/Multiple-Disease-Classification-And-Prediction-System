@@ -24,3 +24,14 @@ Pneumonia | Deep Learning Model(CNN) | 95%
 
 ## NOTE
 => You can access the website live at: https://mdcps.herokuapp.com/ <br> 
+
+## Steps to run the WebApp in local Computer
+**Step-1:** Download the files in the repository.<br>
+**Step-2:** Get into the downloaded folder, open command prompt in that directory and install all the dependencies using following command<br>
+```python
+pip install -r requirements.txt
+```
+**Step-3:** After successfull installation of all the dependencies, run the following command<br>
+```python
+python app.py
+```
