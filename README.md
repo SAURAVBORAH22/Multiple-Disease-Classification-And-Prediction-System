@@ -2,7 +2,7 @@
 ## Problem Statement
 In the current time of pandemic people prefer to be home treated and to ensure they avoid contaminated places such as hospitals and clinics as much as possible. Our project aims to provides a user friendly platform to cross validate results at go and to spread general awareness and provide precautionary measures.
 ## About
-This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
+This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. The webapp can predict following Diseases:
 * Diabetes
 * Breast Cancer
 * Heart Disease
