@@ -35,3 +35,13 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+
+## Application
+With the advancement in technologies and mobile phones being the most used user-friendly device, our team has come with an application that provides a prediction of the seven most caused lifestyle diseases like diabetes, cancer, and chronic diseases at your hand.
+Disease predictor allows you to make important predictions about an ongoing but unknown disease with a few pieces of information like symptoms and diagnostic reports.
+It also helps you to have an in-depth knowledge of the symptoms, causes,  and other important factors for future reference.
+
+## Future Prospects
+With the pandemic time and regular busy schedule of the people, they find it difficult to make it to hospital or clinics to consults physicians for a regular checkup. Here is where we play an important role in helping people with home-based solutions.
+When collaborated with certified and qualified doctors the prediction and data produced as output become more accountable and flexible.
+With a vast amount of diverse data available over the internet, it's very obvious for people to confuse in choosing the correct piece of information. But with our app, this problem gets an easy solution.
